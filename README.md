@@ -11,7 +11,7 @@
 
 
 
-## Problem Statement
+## General Information
 - The problem at hand is to analyse the dataset which holds information about the borrower's data  who have applied for a loan and determine various factors/variables that will lead to borrower defaulting the loan.
 - This key information that comes out of the data analysis task will help the lenders take an well informed decision to either accept the loan application (so borrower would pay in full - leading to profit) or reject the application (again leading to prevention of loss)
 
