@@ -18,12 +18,6 @@
 - Dataset used is 'LENDING DATA'
 
 
-## Technologies Used
-- Python  - version 3.8 
-- Google Colab
-- Microsoft Office Tools
-
-
 ## Conclusions
 1. Loan status is impacted by the state the borrower resides in and home ownership. States with higher cost of living and low income will result in borrowers defaulting
 
@@ -40,6 +34,11 @@
 7. When annual income is low, irrespective of the loan amount and number of terms, chances for default is higher. These are huge risk borrowers.
 
 8. When the length of employment is lesser (less than 3 years), the annual income is lesser. These are high risk borrower
+
+## Technologies Used
+- Python  - version 3.8 
+- Google Colab
+- Microsoft Office Tools
 
 
 ## Acknowledgements
